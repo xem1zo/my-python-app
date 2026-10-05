@@ -68,7 +68,7 @@ python myapp/app.py
 
 Ниже — вывод приложения в терминале после сборки и запуска Docker-контейнера:
 
-![Вывод приложения в терминале](terminal.png)
+![Вывод приложения в терминале](/img/terminal.png)
 
 ```
 Hello from my Python app!
